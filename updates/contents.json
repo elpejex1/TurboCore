@@ -1,0 +1,16 @@
+{
+  "wallpapers": [
+    {
+      "name": "Spider Gaming",
+      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/spider.png",
+      "fileName": "spider.png"
+    }
+  ],
+  "cursors": [
+    {
+      "name": "Glow Cursor",
+      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/red_glow.cur",
+      "fileName": "red_glow.cur"
+    }
+  ]
+}
