@@ -1,16 +1,41 @@
 {
   "wallpapers": [
     {
-      "name": "Spider Gaming",
+      "name": "Gon Turbo Mode",
       "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/Gon-turbocore.png",
       "fileName": "Gon-turbocore.png"
+    },
+    {
+      "name": "Spider Gaming Red",
+      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/spider_red.png",
+      "fileName": "spider_red.png"
+    },
+    {
+      "name": "Cyberpunk City",
+      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/cyberpunk.jpg",
+      "fileName": "cyberpunk.jpg"
+    },
+    {
+      "name": "Minimalist Dark",
+      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/dark_minimal.png",
+      "fileName": "dark_minimal.png"
     }
   ],
   "cursors": [
     {
-      "name": "Glow Cursor",
+      "name": "Red Glow",
       "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/red_glow.cur",
       "fileName": "red_glow.cur"
+    },
+    {
+      "name": "Electric Blue",
+      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/blue_electric.cur",
+      "fileName": "blue_electric.cur"
+    },
+    {
+      "name": "Toxic Green",
+      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/toxic_green.cur",
+      "fileName": "toxic_green.cur"
     }
   ]
 }
