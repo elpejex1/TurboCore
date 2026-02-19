@@ -1,7 +1,17 @@
 {
   "wallpapers": [
     {
-      "name": "Gon Turbo Mode",
+      "name": "Astronauta",
+      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/astronauta%20wallpaper.png",
+      "fileName": "astronauta wallpaper.png"
+    },
+    {
+      "name": "Baki",
+      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/baki.png",
+      "fileName": "baki.png"
+    },
+    {
+      "name": "Gon TurboCore",
       "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/Gon-turbocore.png",
       "fileName": "Gon-turbocore.png"
     },
@@ -11,31 +21,51 @@
       "fileName": "Kimetsu.png"
     },
     {
-      "name": "Cyberpunk City",
-      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/cyberpunk.jpg",
-      "fileName": "cyberpunk.jpg"
+      "name": "Monkey D Luffy",
+      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/MONKEYDLUFFY.png",
+      "fileName": "MONKEYDLUFFY.png"
     },
     {
-      "name": "Minimalist Dark",
-      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/dark_minimal.png",
-      "fileName": "dark_minimal.png"
+      "name": "One Piece",
+      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/onepiece.png",
+      "fileName": "onepiece.png"
+    },
+    {
+      "name": "Scorpion",
+      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/scorpion.png",
+      "fileName": "scorpion.png"
+    },
+    {
+      "name": "Spiderman",
+      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/spiderman.png",
+      "fileName": "spiderman.png"
+    },
+    {
+      "name": "Wallpaper TurboCore",
+      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/WALLPAPER%20TURBOCORE.png",
+      "fileName": "WALLPAPER TURBOCORE.png"
     }
   ],
   "cursors": [
     {
-      "name": "Red Glow",
-      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/red_glow.cur",
-      "fileName": "red_glow.cur"
+      "name": "Pointer White",
+      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/Pointer.cur",
+      "fileName": "Pointer White"
     },
     {
-      "name": "Electric Blue",
-      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/blue_electric.cur",
-      "fileName": "blue_electric.cur"
+      "name": "Dark",
+      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/arrow.cur",
+      "fileName": "dark"
     },
     {
-      "name": "Toxic Green",
-      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/toxic_green.cur",
-      "fileName": "toxic_green.cur"
+      "name": "D Light",
+      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/arrow.cur",
+      "fileName": "D light"
+    },
+    {
+      "name": "Light",
+      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/arrowcur",
+      "fileName": "light"
     }
   ]
 }
