@@ -49,23 +49,23 @@
   "Cursors": [
     {
       "Name": "PointerWhite",
-      "FileName": "PointerWhite.rar",
-      "URL": "https://github.com/elpejex1/TurboCore/raw/main/updates/PointerWhite.rar"
+      "FileName": "PointerWhite.zip",
+      "URL": "https://github.com/elpejex1/TurboCore/raw/main/updates/PointerWhite.zip"
     },
     {
       "Name": "Dark",
-      "FileName": "dark.rar",
-      "URL": "https://github.com/elpejex1/TurboCore/raw/main/updates/dark.rar"
+      "FileName": "dark.zip",
+      "URL": "https://github.com/elpejex1/TurboCore/raw/main/updates/dark.zip"
     },
     {
       "Name": "DLight",
-      "FileName": "Dlight.rar",
-      "URL": "https://github.com/elpejex1/TurboCore/raw/main/updates/Dlight.rar"
+      "FileName": "Dlight.zip",
+      "URL": "https://github.com/elpejex1/TurboCore/raw/main/updates/Dlight.zip"
     },
     {
       "Name": "Light",
-      "FileName": "light.rar",
-      "URL": "https://github.com/elpejex1/TurboCore/raw/main/updates/light.rar"
+      "FileName": "light.zip",
+      "URL": "https://github.com/elpejex1/TurboCore/raw/main/updates/light.zip"
     }
   ]
 }
