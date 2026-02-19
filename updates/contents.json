@@ -46,26 +46,27 @@
       "fileName": "WALLPAPER TURBOCORE.png"
     }
   ],
-  "cursors": [
+  "Cursors": [
     {
-      "name": "Pointer White",
-      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/Pointer.cur",
-      "fileName": "Pointer White"
+      "Name": "Pointer White",
+      "FileName": "Pointer White.rar",
+      "URL": "https://github.com/elpejex1/TurboCore/raw/main/updates/Pointer%20White.rar"
     },
     {
-      "name": "Dark",
-      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/arrow.cur",
-      "fileName": "dark"
+      "Name": "Dark",
+      "FileName": "dark.rar",
+      "URL": "https://github.com/elpejex1/TurboCore/raw/main/updates/dark.rar"
     },
     {
-      "name": "D Light",
-      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/arrow.cur",
-      "fileName": "D light"
+      "Name": "D Light",
+      "FileName": "D light.rar",
+      "URL": "https://github.com/elpejex1/TurboCore/raw/main/updates/D%20light.rar"
     },
     {
-      "name": "Light",
-      "url": "https://raw.githubusercontent.com/elpejex1/TurboCore/main/updates/arrowcur",
-      "fileName": "light"
+      "Name": "Light",
+      "FileName": "light.rar",
+      "URL": "https://github.com/elpejex1/TurboCore/raw/main/updates/light.rar"
     }
   ]
+}
 }
