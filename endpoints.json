@@ -1,4 +1,4 @@
 {
-    "payload":  "{\"v\":1,\"ts\":1789270740,\"hosts\":[\"https://turbocore.me\"]}",
-    "sig":  "TnEJuIbCFeaaQxu4N8I+dzP8+f8sSqo0s8UbmsGW1jhyrE2UcfesFUi65gQwUuiAm6pEqk+s0yVqg1NnU5ae5B6mIH48F4uampESIsziRSmv56qFdlatvkqJ/bNNFIOBwrFkvGjUCtnkvrHRa2FHUi/UOzrAucCiSsqH5RpSlvBH6dztVTaFpv2pS3Cz0wad7wo6qwJeU/IbA9vRXsI/+FrSp+QcPLZ1jyfpSRQapAfcrY/XaE5ukQOmuGneKE1k3xu/DQWmhjNwgym1hIvHKNCGfhwZ1TLPXENv5L1WPpTiPj5fTFF+x1WRTn+4ZbqmJiNnNivpQaJCzL99AINy3Q=="
+    "payload":  "{\"v\":1,\"ts\":1789271499,\"hosts\":[\"https://turbocore.me\"],\"builds\":{\"6.0.6\":\"38078999d15634eb32ff6fb7e20b6b85bfc88b8e4dbd27242eba15cccd6aa5a0\"}}",
+    "sig":  "GcCwZPl4CxLFwYHtiEEzFiyYaO1CCXl+WYyoU3pXGSgGScZW/nwbwTuePKh2+9A9Y3ze5l7rbW7wLRffqwLjjoGSzXoByK5ylrf08OkvHCxPWGwx7RaM6EtosSoj0en9R54CuufkC5SYO+jxDErPVpJ1n2O/k0WRE7BhYiF+p+q5AxijdQN+sqC/832tQJS9X0XfeUVj8XzobEcESgjwurLXMnmFRYklc2sPSFT3HFBIvK06dkMT9I/40sMKldir30oorccNzSHG03DI20Ful1SBs1eyNaF65O3Fc7NtKRBCijUDsc6zkITX4JnkRa8XgWcat5awHiNqR/IwmYm6lg=="
 }
