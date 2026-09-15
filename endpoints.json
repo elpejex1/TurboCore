@@ -1,4 +1,4 @@
 {
-    "payload":  "{\"v\":1,\"ts\":1789494706,\"hosts\":[\"https://turbocore.me\"],\"builds\":{\"6.0.6\":\"8acef8da9c7613426eff3974245f9a7dfd5c8814ce8ae9d9f0471853763af68d\",\"6.0.7\":\"1623ddce98e7739da7b22bda650ef42efc8e2d7b0ab8584328cd9875b36b8e49\"}}",
-    "sig":  "GQHKIB5HTKteDsYY7paeKywrNfbrFNE3A7E1gWsa3buHv7IcvUPSdkAiPuRFcCnVPI9bjYzk2AgaR0oCnbAkOsnG3Jam8X7awP1/P8wd98axNog23M3WxdXyVGrYt034isap3+fnI/fMgadOcbdo9iL3gPKXLJj/TcW3lq5ow7YibqiLyBQAyCDjnCDM6zG7g/BXTuntuSal0+mjKfEDSvF3x0TaI8q81zu+zSmcCS3C3BKb6hyPZvU+4LfLF2JEclCqLijCcX4alknZdNdti/tbS6w1GIHBzllD4FkVI9pry/YFzer3kpFawDfCWK9JtnjR7s6BCxISes3uKCylhA=="
+    "payload":  "{\"v\":1,\"ts\":1789496886,\"hosts\":[\"https://turbocore.me\"],\"builds\":{\"6.0.6\":\"8acef8da9c7613426eff3974245f9a7dfd5c8814ce8ae9d9f0471853763af68d\",\"6.0.7\":\"4cdd58b1090a594bb4492a3204f25f67d204d4f8a4d1cebbb4d62a279c768e3d\"}}",
+    "sig":  "LqmwSFsnbfpnmVSE0gYXd6Vmc/sQwht+N9rqz46GqphZT6zmIhgckeUPdmrhJ5G7ZnQeCALdDG7lKyD32QgMcQsuxxWLnDYA3sJN5DHRsiYzA0eTqqRkBnm7alkAX4/suasd0SQ2mkKNB/45B2fTlL7FyqJqVgBUp/dnvL5t4ft8S+h2ZN0PA+iYDfaxREF8T2i9FjUcVcGiy12ii/NlHCKMyOF7/c4MGLCcZ5wkD1lnC3OzWwM02nxnr8m1YWI0BnhcOeT2RnQ5zYzPUxyYfmEGKIOeNsMX+TJ9E8syauagtDT7ZlH379BHZoV5qsGBfE2RVEB02mHSw6uZxHMnuA=="
 }
